@@ -1,2 +1,2 @@
 let name = "Jahfar"
-let CompanyName = "Kiebot"
+let companyname = "Kiebot"
